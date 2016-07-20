@@ -1,0 +1,29 @@
+{
+  "planetsImagesList": [
+    {
+      "id": 1,
+      "img": "mercury"
+    },{
+      "id": 2,
+      "img": "venus"
+    },{
+      "id": 3,
+      "img": "earth"
+    }, {
+      "id": 4,
+      "img": "mars"
+    },{
+      "id": 5,
+      "img": "jupiter"
+    },{
+      "id": 6,
+      "img": "saturn"
+    },{
+      "id": 7,
+      "img": "uranus"
+    },{
+      "id": 8,
+      "img": "neptune"
+    }
+  ]
+}
